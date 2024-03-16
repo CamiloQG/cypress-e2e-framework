@@ -1,0 +1,20 @@
+{
+  "name": "cypress-e2e-framework",
+  "version": "1.0.0",
+  "description": "E2E Frame Testing Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "framework"
+  ],
+  "author": "Camilo Quintero",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.0"
+  }
+}
